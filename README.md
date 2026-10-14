@@ -9,5 +9,5 @@ Não envie materiais com autoria ou situação de direitos desconhecida, nem con
 ## Organização sugerida
 - Use nomes de arquivo descritivos e datas quando disponíveis.
 - Mantenha junto de cada contribuição suas referências de origem e de direitos.
-O objetivo é manter um acervo organizado, verificável e acessível a todas as pessoas
-BORA LULA!
+O objetivo é manter um acervo organizado, verificável e acessível a todas as pessoas.
+BORA VIRAR! BORA LULA!
