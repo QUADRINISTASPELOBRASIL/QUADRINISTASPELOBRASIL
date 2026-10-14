@@ -1,4 +1,4 @@
-# Quadrinhistas pelo Brasil
+# Quadrinistas pelo Brasil
 ## Imagens de apoio ao governo Lula
 Este repositório reúne ilustrações e materiais visuais de apoio ao governo do presidente Luiz Inácio Lula da Silva e a iniciativas que contribuam para o debate público e o desenvolvimento do Brasil.
 ## Sobre o acervo
