@@ -1,6 +1,6 @@
 # Quadrinistas pelo Brasil
 ## Imagens de apoio à reeleição do Lula
-Este repositório reúne ilustrações e materiais visuais de apoio à campanha de reeleição do presidente Luiz Inácio Lula da Silva e a iniciativas que contribuam para o debate público e o desenvolvimento do Brasil, em resposta ao bloqueio ilegal de criação de artes pró-Lula nas ferramentas de IA.
+Este repositório reúne ilustrações e materiais visuais de apoio à campanha de reeleição do presidente Luiz Inácio Lula da Silva e a iniciativas que contribuam para o debate público e o desenvolvimento do Brasil, **em resposta ao bloqueio ilegal de criação de artes pró-Lula nas ferramentas de IA**.
 ## Sobre o acervo
 Todas as imagens publicadas aqui devem estar em **domínio público**. O acervo é colaborativo e busca facilitar a consulta, a divulgação e o compartilhamento desses materiais por todas as pessoas.
 ## Como contribuir
